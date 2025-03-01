@@ -48,6 +48,7 @@ M.options = {
     rust = { "// %s", "/* %s */" },
     scss = { "// %s", "/* %s */" },
     sql = "-- %s",
+    spec = "# %s",
     styled = "/* %s */",
     svelte = "<!-- %s -->",
     templ = {
